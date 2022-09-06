@@ -26,11 +26,24 @@ ISO125)
 ![](./pics/flower-2.JPG)
 <p align = "center">
 Shasta daisies
-(ƒ/8
-1/1000
-72 mm
+(ƒ/8,
+1/1000,
+72 mm,
 ISO125)
 </p>
+
+### Flower 3
+
+![](./pics/flower-3.JPG)
+<p align = "center">
+African lily
+(ƒ/4.5,
+1/250,
+52.59 mm,
+ISO125)
+</p>
+
+
 
 ![](./pics/seagull-1.jpg)
 
