@@ -1,0 +1,15 @@
+name: "Mywebsite"
+title: "Artsy Birdie's Photo Gallery"
+type: default
+left:
+  - text: "Locations"
+    menu:
+       - text: "Royal Botanic Gardens"
+         href: ./RBG-Syd.html
+       - text: "Project part 2"
+         href: ./project2.html
+  - text: "Who am I?"
+    href: ./aboutme.html
+right:
+  - icon: fa-github fa-lg
+    href: https://github.com/warmcuppatea/artsy-birdie.git

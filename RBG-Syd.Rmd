@@ -1,0 +1,47 @@
+---
+title: "Royal Botanic Gardens Sydney"
+output: 
+  html_document:
+    theme: paper
+---
+
+Ah yes, a botanical garden. Always a good spot to take photos (not so good to steal chips from people though). I've always liked hanging out here because of what is around me: plants and flowers. Honestly, I think this is my favourite spot in the city. I can't wait to show you why.
+
+Let's start small.
+
+## Flowers
+### Flower 1
+
+![](./pics/flower-1.jpg)
+<p align = "center">
+A (insert description), edited with Lightroom Classic
+(ƒ/4.5,
+1/500,
+72 mm,
+ISO125)
+</p>
+
+Before edit photo:
+![](./pics/flower-1-pre.jpg)
+<p align = "center">
+A (insert description), pre-edit
+(ƒ/4.5
+1/500
+72 mm
+ISO125)
+</p>
+
+(talk about the flower)
+
+![](./pics/flower-2.JPG)
+<p align = "center">
+(insert description)
+(ƒ/8
+1/1000
+72 mm
+ISO125)
+</p>
+
+![](./pics/seagull-1.jpg)
+
+

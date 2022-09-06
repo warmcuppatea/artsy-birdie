@@ -1,0 +1,20 @@
+---
+title: "Artsy Birdie's Photo Gallery"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+![](./pics/mushroom-1.jpg)
+<p align = "center">
+So still yet so full of life.
+(ƒ/4.5
+1/200
+72 mm
+ISO2000)
+</p>
+
+
+
+
+
