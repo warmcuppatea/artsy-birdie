@@ -21,21 +21,11 @@ A black-eyed Susan, edited with Lightroom Classic
 ISO125)
 </p>
 
-Before edit photo:
-![](./pics/flower-1-pre.jpg)
-<p align = "center">
-Black-eyed Susan, pre-edit
-(ƒ/4.5
-1/500
-72 mm
-ISO125)
-</p>
-
-So who exactly is black-eyed Susan? 
+### Shasta Daisy?
 
 ![](./pics/flower-2.JPG)
 <p align = "center">
-(insert description)
+Shasta daisies
 (ƒ/8
 1/1000
 72 mm
