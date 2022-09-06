@@ -2,7 +2,7 @@ name: "Photo Gallery"
 output_dir: 'docs'
 output:
   html_document:
-    theme: paper
+    theme: journal
   highlight: zenburn
   toc: true
   toc_depth: 2
