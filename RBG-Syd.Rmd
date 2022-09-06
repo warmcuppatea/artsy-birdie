@@ -10,11 +10,11 @@ Ah yes, a botanical garden. Always a good spot to take photos (not so good to st
 Let's start small.
 
 ## Flowers
-### Flower 1
+### Black-eyed Susan
 
 ![](./pics/flower-1.jpg)
 <p align = "center">
-A (insert description), edited with Lightroom Classic
+A black-eyed Susan, edited with Lightroom Classic
 (ƒ/4.5,
 1/500,
 72 mm,
@@ -24,14 +24,14 @@ ISO125)
 Before edit photo:
 ![](./pics/flower-1-pre.jpg)
 <p align = "center">
-A (insert description), pre-edit
+Black-eyed Susan, pre-edit
 (ƒ/4.5
 1/500
 72 mm
 ISO125)
 </p>
 
-(talk about the flower)
+So who exactly is black-eyed Susan? 
 
 ![](./pics/flower-2.JPG)
 <p align = "center">
