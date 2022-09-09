@@ -6,8 +6,8 @@ left:
     menu:
        - text: "Royal Botanic Gardens"
          href: ./RBG-Syd.html
-       - text: "Project part 2"
-         href: ./project2.html
+       - text: "Royal National Park"
+         href: ./rnp.html
   - text: "Who am I?"
     href: ./aboutme.html
 right:

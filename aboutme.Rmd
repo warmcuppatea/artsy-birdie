@@ -1,9 +1,7 @@
 ---
 title: "About Me"
 output: 
-  html_document:
-    theme: paper
-  toc: true
+  html_document
 ---
 
 Hi, my name is Seagull McPenguin and welcome to my first ever site!
@@ -11,13 +9,9 @@ But hold on a sec, am I really a seagull??
 
 > Yes I am! *seagull noises
 
-![](./pics/seagull-1.JPG)
+![](./pics/seagull.JPG)
 <p align = "center">
 That's me chilling on the grass.
-(ƒ/6.3
-1/1000
-72 mm
-ISO125)
 </p>
 
 I'm bored and I wanna try something new. 
