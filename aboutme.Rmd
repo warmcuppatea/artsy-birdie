@@ -4,25 +4,7 @@ output:
   html_document
 ---
 
-Hi, my name is Seagull McPenguin and welcome to my first ever site!
-But hold on a sec, am I really a seagull??
-
-> Yes I am! *seagull noises
-
-![](./pics/seagull.JPG)
+![](./pics/rbg/seagull.JPG)
 <p align = "center">
 That's me chilling on the grass.
 </p>
-
-I'm bored and I wanna try something new. 
-And because of that, I made this. Such an interesting foray into the unknown. 
-
-\ 
-
-Anyways, I've been wanting to publicly share my photos. I don't really use Instagram (which is like the easiest platform to achieve this goal), so I decided to create this. This website was made using RStudio and RMarkdown.
-
-My gear? A Sony DSC-RX100M6.
-
-Thanks for visiting!
-
-

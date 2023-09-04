@@ -1,0 +1,24 @@
+A coastal trail is always a treat for me, mainly because I get to observe hikers in their most vulnerable state (most of the time!) as they huff and puff to walk from one point to another. Sometimes I don't understand why they forget to hydrate; there's water everywhere you look! But then again, they can't fly! *squawks
+
+<p align = "center">
+Yummy bird feeders (left); tempting but I was on a diet (top); flowers along the way (above and below).
+</p>
+
+Ah yes, a botanical garden. Always a good spot to take photos (not so good to steal chips from people though). I've always liked hanging out here because I could meet my other bird friends as well. Honestly, I think this is my favourite spot in the city. I can't wait to show you why. *squawks
+
+Let's start small.
+
+I'm bored and I wanna try something new. 
+And because of that, I made this. Such an interesting foray into the unknown. 
+
+\ 
+
+Anyways, I've been wanting to publicly share my photos. I don't really use Instagram (which is like the easiest platform to achieve this goal), so I decided to create this. This website was made using RStudio and RMarkdown.
+
+My gear? A Sony DSC-RX100M6.
+
+Thanks for visiting!
+
+Hi, my name is Seagull McPenguin and welcome to my first ever site!
+But hold on a sec, am I really a seagull??
+

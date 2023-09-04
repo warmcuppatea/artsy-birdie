@@ -16,15 +16,9 @@ alert(theMsg);
 //-->
 </script>
 
-A coastal trail is always a treat for me, mainly because I get to observe hikers in their most vulnerable state (most of the time!) as they huff and puff to walk from one point to another. Sometimes I don't understand why they forget to hydrate; there's water everywhere you look! But then again, they can't fly! *squawks
-
 # The beginning
 
 <img src="./pics/rnp/misc-1.jpg" style="float: left; margin-bottom: 0.5em;">
-
-<p align = "center">
-Too tired to fly, we decided to use the ferry to get to the start of the trail.
-</p>
 
 \
 
@@ -33,36 +27,21 @@ Too tired to fly, we decided to use the ferry to get to the start of the trail.
 
 <img src="./pics/rnp/bird-1.jpg" style="float: left; margin-bottom: 0.5em;">
 
-<p align = "center">
-Met a friendly kookaburra along the way. Tried to imitate its laughter but ended up embarrassing myself (I am a seagull after all!).
-</p>
-
 \
 
 <img src="./pics/rnp/misc-4.jpg" style="float: left; width: 49.5%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="./pics/rnp/bug-1.jpg" style="float: left; width: 49.5%; margin-right: 0%; margin-bottom: 0.5em;">
 <img src="./pics/rnp/flower-2.jpg" style="float: left; width: 49.5%; margin-right: 0%; margin-bottom: 0.5em;">
 
-<p align = "center">
-Yummy bird feeders (left); tempting but I was on a diet (top); flowers along the way (above and below).
-</p>
-
-
 <img src="./pics/rnp/flower-3.jpg" style="float: left; width: 49.5%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="./pics/rnp/flower-1.jpg" style="float: left; width: 49.5%; margin-right: 0%; margin-bottom: 0.5em;">
 
 &nbsp;
 
-# Friends along the way
-
-I forgot to mention that some of my closest buds live around this area!
+# Birds along the way
 
 <img src="./pics/rnp/bird-2.jpg" style="float: left; width: 49.5%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="./pics/rnp/bird-3.jpg" style="float: left; width: 49.5%; margin-right: 0%; margin-bottom: 0.5em;">
-
-<p align = "center">
-Bumped into my good friend cockatoo, minding their own business.
-</p>
 
 \
 
@@ -73,18 +52,4 @@ Bumped into my good friend cockatoo, minding their own business.
 A New Holland Honeyeater, looking at me suspiciously.
 </p>
 
-\
-
 <img src="./pics/rnp/bird-6.jpg" style="float: left; margin-right: 0%; margin-bottom: 0.5em;" onMouseDown="popupMsg('This image is Copyrighted -- Khaizuran Kamarul 2022')">
-
-<p align = "center">
-Also met Maggie along the way! Nice to see her thriving here; she can be a bit grumpy sometimes.
-</p>
-
-# The trail begins
-
-Ah yes, this is where most humans (and me apparently) begin their journey.
-
-
-
-
