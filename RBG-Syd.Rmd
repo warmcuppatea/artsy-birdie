@@ -1,7 +1,11 @@
 ---
 title: "Royal Botanic Gardens Sydney"
 output: 
-  html_document
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: true
+      smooth-scroll: true
 ---
 
 Ah yes, a botanical garden. Always a good spot to take photos (not so good to steal chips from people though). I've always liked hanging out here because I could meet my other bird friends as well. Honestly, I think this is my favourite spot in the city. I can't wait to show you why. *squawks
